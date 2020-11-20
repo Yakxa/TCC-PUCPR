@@ -1,0 +1,402 @@
+Experimento no domínio LÓGICA MATEMÁTICA
+
+Estudantes do curso de Tecnologia em Informática da UFPR
+
+Resumo do Estudante 1
+A lógica matemática começou na Grécia e alguns filósofos com George Boolee De Morgan interessaram-se pelo
+debate filosófico e matemático a fim de criar regras para serem usadas nos argumentos. Varias situações no
+mundo apresentam dois estados mutuamente exclusivos tem ou não tem. Este texto apresenta alguns conceitos de
+lógica.Chama-se Proposição Declarativa todo conjunto de palavras que exprimem um pensamento de sentido
+completo. As proposições afirmam fatos ou exprimem juízos de determinados entes. A álgebra de Boole simboliza
+as proposições matematicamente e possuem propriedades características dos números de Álgebra, tais como:
+Comunicativa, associativa, distributiva, de Morgan e regra da condicional e estas proposições só podem assumir
+dois valores, verdadeiro ou falso.As regras que validam os argumentos lógicos são chamadas regras de
+inferência, são elas: Modus Pones, Modus tollens, Idempotência, Identidade, Complementação, Silogismo
+Disjuntivo, Silogismo Hipotético, Dilema Construtivo e Dilema Destrutivo.A lógica matemática tem dois
+princípios fundamentais: Principio da Não Contradição e o Principio do Terceiro Excluído, por isto a lógica
+matemática lógica é chamada de Dicotômica ou Bivalente.Chama-se valor lógico verdade se a proposição for
+verdadeira e falsidade se a proposição for falsa. Proposições que exprimam diversos pensamentos, formam
+proposições compostas por varias proposições atômicas. Chama-se conectivo as palavras usadas para unir duas
+ou mais proposições. Os principais conectivos são: negação, conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 2
+Utilizada pelos antigos filósofos em discussões para defender suas idéias, através de sentenças afirmativas e
+negativas. Na idade média, George Boole e outros estudiosos criaram regras para serem usadas nas
+argumentações.As proposições que transmitem pensamentos, afirmando fatos são chamadas de Proposição
+Declarativa. Na álgebra de Boole, as proposições são simbolizadas matematicamente e usam os conectivos
+lógicos da álgebra comum, como: comutativa, associativa, distributiva, assumindo só dois valores, verdadeiro e
+falso.A lógica Matemática parte de dois princípios: Princípio da não contradição uma proposição não pode ser
+falsa e verdadeira ao mesmo tempo e o Princípio do Terceiro Excluído uma proposição só pode ser verdadeira
+ou falsa e nunca um terceiro valor.Se o valor lógico de uma proposição for a verdade, chamamos de verdadeiro e
+se for falsidade chamamos de falso. Chamamos de conectivos as palavras usadas para unir duas ou mais
+proposições.
+
+Resumo do Estudante 3
+A lógica Matemática começou na Grécia, usavam para defender suas idéias, através de sentenças afirmativas e
+negativas. Na idade média, George Boole e outros estudiosos criaram regras para serem usadas nas
+argumentações, começaram a representar frases por notações matemáticas.No mundo em que vivemos
+apresentam dois estados mutuamente exclusivos, sim ou não, ligado ou desligado, verdadeiro e falso. Chama-se
+Proposição declarativa conjunto de palavras que exprimem um pensamento de sentido completo. As proposições
+transmitem pensamentos, afirmam fatos ou exprimem juízos de determinados entes. Na Álgebra de Boole, as
+proposições são simbolizadas matematicamente. Tais como: comutativa, associativa, distributiva, e regra
+condicional só podem assumir dois valores, Verdadeiro e Falso.A lógica Matemática parte de dois
+princípios:Princípio da não contradição, uma proposição não pode ser falsa e verdadeira ao mesmo tempo, e o
+Princípio do Terceiro Excluído, uma proposição só pode ser verdadeira ou falsa e nunca um terceiro valor.Se o
+valor lógico de uma proposição for a verdade, chamamos de verdadeiro e se for falsidade chamamos de falso.
+Chamamos de conectivos as palavras usadas para unir duas ou mais proposições.Os conectivos básicos são:
+negação, conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 4
+A lógica matemática surgiu na Grécia, Suas sentenças eram enunciadas nas formas afirmativa e negativa.A partir
+da Idade Média começou a representar frases por meio de sentenças por notações matemáticas.O mundo em que
+vivemos apresenta situações onde só existe o sim e não, verdadeiro e falso.Uma proposição declarativa é um
+conjunto de palavras que exprimem um pensamento de sentido completo. Na álgebra Booleana, essas proposições
+e seus conectivos obedecem às mesmas regras da matemática. Essas regras de validação são chamadas Regras de
+Inferência.A lógica matemática tem dois princípios fundamentais: Principio da não contradição, onde uma
+proposição não pode ser verdadeira e falsa ao mesmo tempo e o Principio do terceiro excluído que diz que toda
+proposição só pode ser verdadeira ou falsa. Estes princípios fazem com que a lógica matemática seja chamada de
+Bivalente.Os valores lógicos podem assumir dois estados: Verdade e Falsidade. Os conectivos básicos que unem
+duas ou mais proposições para formar as sentenças: conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 5
+A Lógica Matemática começou a Grécia, os antigos filósofos usavam em suas discussões a fim de defender suas
+idéias e argumentos, enunciando as sentenças na formas afirmativa ou negativa. A partir da Idade Média
+começou-se a representar frases por meio de notações matemáticas.Algumas situações no mundo em que vivemos
+apresentam dois estados mutuamente exclusivos com sim e não, ligado e desligado, verdadeiro e falso.Chama-se
+preposição declarativa todo o conjunto de palavras que exprimem um pensamento de sentido completo e
+transmitem pensamento. Na Álgebra de Boole, as proposições são simbolizadas matematicamente e ligadas aos
+conectivos lógicos que podem ser por exemplo: comutativa, associativa, distributiva, de Morgan e regra da
+condicional e estas proposições só podem assumir dois valores, Verdadeiro e Falso.A Lógica Matemática tem
+dois princípios fundamentais:Principio da não contradição que diz que uma proposição não pode ser verdadeira e
+falsa ao mesmo tempo e o Principio do Terceiro Excluído que diz que toda proposição é verdadeira ou falsa e
+nunca um terceiro valor.Chama-se valor lógico de uma preposição a Verdade se a preposição é verdadeira e a
+falsidade se a preposição é falsa. Chama-se conectivo as palavras usadas para unir duas ou mais preposições. Os
+conectivos básicos são negação, conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 6
+A Lógica Matemática teve origem na Grécia, onde sentenças eram enunciadas na forma de sim e não. Na idade
+média representavam frases por meio de notações matemáticas. George Boole e De Morgan criaram regras para
+serem usadas nos argumentos.Situações no mundo estão ligados ao sim e não, ligado e desligado, verdadeiro e
+falso.Proposição Declarativa conj. de palavras que exprimem um pensamento de sentido completo. A Álgebra
+Booleana simboliza as proposições matematicamente. Possuem as seguintes características: comunicativa,
+associativa, distributiva e regra da condicional, possuem dois valores, verdadeiro e falso.Possuem as seguintes
+regras: Regra de Inferência, que são elas: Modus Ponens, Modus Tollens, Idempotencia, Identidade,
+Complementação, Silogismo Disjuntivo, Silogismo Hipotético, Dilema Construtivo e Dilema Destrutivo.Dois
+princípios fundamentais:Princípio da não contradição, verdadeira ou falsa ao mesmo tempo;Princípio do
+Terceiro Excluído, verdadeira ou falsa e nunca um terceiro valor.Por esse motivo é chamada Dicotômica ou
+Bivalente.
+
+Resumo do Estudante 7
+A Lógica Matemática começou na Grécia. Suas sentenças eram enunciadas na forma afirmativa ou negativa. A
+partir da idade média começou-se a representar frases por meio de notações matemáticas.Atualmente
+encontramos situações que se apresentam com dois estados mutuamente exclusivos com sim e não, ligado e
+desligado, verdadeiro e falso. Uma Proposição Declarativa é todo conjunto de palavras que exprimem um
+pensamento no sentido completo. Na Álgebra de Boole, as proposições são simbolizadas matematicamente e
+ligadas aos conectivos lógicos possuem propriedades características dos números da Álgebra, tais como:
+comutativa, associativa, distributiva, de Morgan e regra da condicional e estas proposições só podem assumir
+dois valores, Verdadeiro e Falso.As regras que validam os argumentos lógicos são chamadas Regras de
+Inferência.A Lógica Matemática tem dois princípios fundamentais:Princípio da não contradição que diz que uma
+proposição não pode ser verdadeira e falsa ao mesmo tempo e ao mesmo tempo e o Princípio do Terceiro
+Excluído que diz que toda proposição é verdadeira ou falsa e nunca um terceiro valor. Devido a estes princípios a
+Lógica Matemática é chamada de Dicotômica ou Bivalente.Chama-se valor lógico de uma proposição a Verdade
+se a proposição for verdadeira e a Falsidade se a proposição é falsa.Chama-se conectivo as palavras usadas para
+unir duas ou mais proposições.
+
+Resumo do Estudante 8
+A Lógica Matemática começou na Grécia, onde as sentenças eram enunciadas de forma afirmativa ou negativa. A
+partir da Idade Média elas começaram a ser representadas por meio de noções matemáticas, e foram criadas
+regras para serem usadas nos argumentos dessas sentenças. Os conceitos de Lógica Matemática estão ligados a
+situações que apresentam dois estados mutuamente exclusivos, como sim e não.Proposição Declarativa é todo
+conjunto de palavras que exprime um pensamento de sentido completo. Na Álgebra de Boole elas são
+simbolizadas matematicamente e ligadas aos conectivos lógicos, possuindo propriedades características dos
+
+números da Álgebra e recebendo somente valores Verdadeiro ou Falso, sendo validadas pelas Regras de
+Inferência. Para se formar proposições que exprimam diversos pensamentos, formam-se proposições compostas
+por várias proposições atômicas unidas por conectivos. A Lógica Matemática tem dois princípios fundamentais:
+Princípio da Não Contradição: uma proposição não pode ser verdadeira e falsa ao mesmo tempo Princípio
+do Terceiro Excluído: toda proposição é verdadeira ou falsa e nunca um terceiro valor.
+
+Resumo do Estudante 9
+A Lógica Matemática teve início na Grécia e era utilizada pelos antigos filósofos para defender suas idéias e
+argumentos. Na Idade Média alguns estudiosos interessaram-se e crias regras para serem usadas em argumentos
+para debates filosóficos e matemáticos.O conjunto de palavras que exprimem um pensamento de sentido completo
+é chamado Preposição Declarativa, e transmitem pensamento, ou seja, afirmam fatos ou exprimem juízos a
+respeito de determinados entes. Na Álgebra de Boole, as preposições são simbolizadas matematicamente e
+ligadas aos conectivos lógicos possuem propriedades características dos números da Álgebra A Lógica
+Matemática é chamada de Dicotômica ou Bivalente devido a dois princípios fundamentais; a da não contradição
+que diz que uma preposição não pode ser verdadeira e falsa ao mesmo tempo e o Terceiro Excluído que diz que
+toda preposição é somente verdadeira ou falsa e nunca um terceiro valor.O valor lógico de uma preposição é a
+Verdade se esta for verdadeira e é a Falsidade se esta for falsa. Usamos o conectivo, que são palavras para unir
+duas ou mais preposições, quando formamos preposições que exprimam diversos pensamentos.
+
+Resumo do Estudante 10
+A Lógica Matemática começou a Grécia, os filósofos usavam em suas discussões a fim de defender suas idéias e
+argumentos, enunciando as sentenças na formas afirmativa ou negativa.Na Idade Média começou-se a
+representar frases por meio de notações matemáticas.Algumas situações que vivemos apresentam dois estados
+mutuamente exclusivos com sim e não, ligado e desligado, verdadeiro e falso.Chama-se Proposição Declarativa
+todo o conjunto de palavras que exprimem um pensamento de sentido completo e transmitem pensamento. Na
+Álgebra de Boole, as proposições são simbolizadas matematicamente e ligadas aos conectivos lógicos que podem
+ser: comutativa, associativa, distributiva, de Morgan e regra da condicional e estas proposições só podem
+assumir dois valores, Verdadeiro e Falso.A Lógica Matemática tem dois princípios fundamentais:Principio da
+não contradição onde uma proposição não pode ser verdadeira e falsa ao mesmo tempo e o Principio do Terceiro
+Excluído que diz, toda proposição é verdadeira ou falsa e nunca um terceiro valor.Chama-se valor lógico de uma
+preposição a Verdade se a preposição é verdadeira e a Falsidade se a preposição é falsa. Chama-se conectivo as
+palavras usadas para unir duas ou mais preposições. Os conectivos básicos são negação, conjunção, disjunção,
+condicional e bicondicional.
+
+Resumo do Estudante 11
+Iniciou-se na Grécia onde os antigos filósofos utilizavam-na para defender suas teses, em forma afirmativa ou
+negativa. Na Idade Media as frases eram representadas por notações matemáticas, atraindo a atenção de alguns
+estudiosos que ficaram bastante interessados pelo debate filosófico e matemático.Sempre passamos por situações
+onde a lógica matemática e utilizada. Abaixo segue alguns conceitos.Proposição Declarativa expressa um
+pensamento de sentido completo, transmitem pensamentos. Na Álgebra de Boole, as proposições possuem
+propriedades características dos números como comutativa, associativa, regra da condicional entre outras.
+Podendo assumir somente dois valores, verdadeiro e falso.Regras de Inferência validam os argumentos
+lógicos.Principio da Não Contradição uma proposição não pode ser verdadeira e falsa ao mesmo tempo.Principio
+do Terceiro Excluído toda preposição e verdadeira ou falsa mas nunca um outro valor.Em razão dos dois
+princípios acima citados a lógica e chamada de Dicotômica ou Bivalente.Valor Lógico chama-se Verdade se a
+proposição for verdadeira e a Falsidade se a proposição for falsa.Conectivo Palavras usadas para unir duas ou
+mais proposições, sendo eles a negação, conjunção, disjunção entre outros.
+
+Resumo do Estudante 12
+A Lógica Matemática começou na grécia e os antigos filósofos usavam em suas dicussões a fim de defender sua
+idéias e argumentos. A partir da idade média começou-se representar frase por meio de notações
+matemáticas.Algumas situações no mundo em que vivemos apresentam dois estados mutuamente exclusivos com
+sim e não, ligado e desligado, verdadeiro e falso. Este Texto Apresenta alguns conceitos de lógica Matemática
+ligados a estas situações.Chama-se proposição declarativa todo conjunto de palavras que exprimem um
+pensamento de sentido completo. As regra que validam os argumentos lógicos são chamadas regras de
+Inferencia.A lógica matemática tem dois principios fundamentais:Princípios da não contradição que diz que uma
+proposição não pode ser vedadeira e falsa ao mesmo tempo e o Princípio do Terceiro Excluído que diz que toda
+proposição é verdadeira ou falsa e nunca um terceiro valor.Chama-se valor lógico de uma prososição a verdade
+se a proposição for verdadeira e a falsidade se a proposição é falsa. Para se formar proposições que exprimam
+diversos pensamentos, formam-se proposições atômicasf. Chama-se conectivo as palavras usadas para unir duas
+ou mais proposições.
+
+Resumo do Estudante 13
+A lógica matemática começou na Grécia, com os antigos filósofos\, quando defendiam suas idéias e argumentos.
+Eram sentenças enunciadas nas formas negativa e positiva. Mais tarde, começou-se a representar frases por
+notações matemáticas.Existem dois princípios fundamentais na Lógica Matemática:1. Princípio da não
+contradição: uma sentença não pode ser verdadeira e falsa ao mesmo tempo.2. Princípio do terceiro excluído:
+uma sentença será sempre verdadeira ou falsa e nunca um terceiro valor.Na álgebra de Boole, as proposições são
+simbolizadas matematicamente e ligadas por conectivos lógicos. Conectivos são palavras usadas para unir duas
+ou mais proposições, que podem ser de: negação, conjunção, disjunção, condicional e bicondicional. As
+proposições possuem características como: comutativa, associativa, distributiva, de Morgan e regra da
+Condicional, o qual podem assumir apenas dois valores: Verdadeiro e Falso.
+
+Resumo do Estudante 14
+A lógica matemática já era usada pelos gregos como argumento para discussões, e eram expressas com o
+resultado de positivo ou negativo.Na idade media estudiosos como George Boole e de Morgan começaram a criar
+regras para utilização dos argumentos e começou-se a representar frases por meio de conotação
+matemática.Algumas situações do cotidiano exprimem como resposta somente dois estados: Sim ou Não.Na
+álgebra de boole as preposições declarativas(conjunto de palavras que exprimem um pensamento de sentido
+completo) são símbolos matemáticos ligados aos conectivos lógicos, e possuem certas propriedades como:
+comutativa,associativa,distributiva e condicional e só podem assumir os valores de Verdadeiro ou falso.Os
+Princípios fundamentais da lógica matemática são dois: o principio d a não contradição,onde não pode ser
+verdade e falso ao mesmo tempo e o principio do terceiro excluído, onde os valores so podem receber verdadeiro
+ou falso, exclusivamente.Para expressões que exprimem varias idéias formam-se expressões ligadas por
+conectivos (palavras usadas para unir duas ou mãos preposições).Os conectivos básicos são: Negação,
+conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 15
+A lógica matemática surgiu na Grécia, quando os antigos filósofos enunciavam sentenças na forma afirmativa ou
+negativa. A partir da Idade Média alguns estudiosos como George Boole e De Morgan interessaram-se pelo
+assunto.O mundo em que vivemos apresenta situações onde só existe o sim e não, verdadeiro e falso. Uma
+proposição declarativa é um conjunto de palavras que exprimem um pensamento de sentido completo. A lógica
+matemática tem dois princípios fundamentais: principio da não contradição, onde uma proposição não pode ser
+verdadeira e falsa ao mesmo tempo e o principio do terceiro excluído que diz que toda proposição é verdadeira ou
+falsa. Os conectivos básicos que unem duas ou mais proposições são: conjunção, disjunção, condicional e
+bicondicional.
+
+Resumo do Estudante 16
+A Lógica matemática começou na Grécia e os filósofos a usavam para defender suas idéias e argumentos. Na
+idade média representava-se frases por notações matemáticas. Estudiosos criaram regras para serem usadas nos
+argumentos.Algumas situações no mundo apresentam dois estados (sim e não).Chama-se Proposição Declarativa
+todo conjunto de palavras q exprimem um pensamento se sentido completo. Na Álgebra de Boole, as proposições
+possuem propriedades características da álgebra, como: comutativa, associativa, distributiva, de Morgan e regra
+da condicional.As regras de Inferência validam os argumentos lógicos: Modus Ponens, Modus Tollens,
+Idempotência, Identidade, Complementação, Silogismo Disjuntivo, Silogismo Hipotético, Dilema Construtivo e
+Dilema Destrutivo.Princípios fundamentais:Princípio da não contradição (não pode ser verdadeira e falsa) e
+Princípio do Terceiro Excluído (verdadeira ou falsa).Valor lógico: Verdade se verdadeira e Falsidade se falsa.
+
+Resumo do Estudante 17
+A lógica matemática começou na Grécia, e na idade média começou-se a representar frases por meio de notações
+matemáticas. Nesta época estudiosos como George Boole e De Morgan interessaram-se pelo desenvolvimento de
+regras para a utilização da Lógica Matemática.Algumas situações do dia-a-dia se apresentam em dois estados
+distintos: sim ou não, verdadeiro ou falso, ligado ou desligado.Chama-se Proposição Declarativa todo o conjunto
+de palavras que exprimem um pensamento de sentido completo.
+Na Álgebra de Boole, as proposições são
+simbolizadas matematicamente e ligadas aos conectivos lógicos e possuem propriedades semelhantes as dos
+números da Álgebra, tais como: comutativa, associativa, distributiva, de Morgan e regra da condicional, sendo
+que estas propriedades só podem assumir dois valores, Verdadeiro ou Falso.As Regras de Inferência, as quais
+validam os argumentos lógicos, são: Modus Ponens, Modus Tollens, Idempotência, Identidade, Complementação,
+Silogismo Disjuntivo, Silogismo Hipotético, Dilema Construtivo e Dilema Destrutivo.A Lógica Matemática possui
+dois princípios fundamentais:Princípio da Não Contradição que diz que uma proposição não pode ser verdadeira
+e falsa ao mesmo tempo e o Princípio do Terceiro Excluído que diz que toda proposição ou é verdadeira ou é
+falsa e nunca e um terceiro valor.Como decorrência destes princípios a Lógica Matemática é chamada de
+Dicotômica ou Bivalente.Chama-se de valor lógico de uma proposição a Verdade se a proposição for verdadeira
+e a Falsidade se a proposição for falsa.Chama-se de conectivo as palavras usadas para unir duas ou mais
+proposições, sendo os conectivos básicos: negação, conjunção, disjunção, condicional e bicondicional
+
+Resumo do Estudante 18
+Esse texto apresenta alguns conceitos de Lógica Matemática ligados à frases por meio de notações matemáticas,
+como ligado e desligado, sim e não, que são conceitos que vêm da Lógica Matemática. Na Idade Média alguns
+estudiosos criaram regas matemáticas e filosóficas para serem usadas nos argumentos.Proposição Declarativa é
+todo conjunto de palavras que exprimem pensamentos completos. Na Álgebra Booleana as proposições viram
+símbolos matemáticos e possuem propriedades como os números da álgebra. As regras que validam os
+argumentos lógicos se chamam Regras de Inferência.A Lógica Matemática tem 2 princípios fundamentais: Não
+contradição: uma proposição não pode ser falsa nem verdadeira ao mesmo tempo. Principio do terceiro excluído:
+ou a proposição á falsa ou verdade, nunca um terceiro valor.Por isso a lógica matemática é dicotômica ou
+bivalente.O valor lógico é a verdade ou a falsidade. Os conectivos para unir 2 proposições são: negação,
+conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 19
+A Lógica Matemática começou a Grécia e os antigos filósofos usavam em suas discussões a fim de defender suas
+idéias e argumentos. Suas sentenças eram enunciadas na formas afirmativa ou negativa.Algumas situações no
+mundo em que vivemos apresentam dois estados mutuamente exclusivos com sim e não, ligado e desligado,
+verdadeiro e falso.Na Álgebra de Boole, as proposições são simbolizadas matematicamente e ligadas aos
+conectivos lógicos e possuem propriedades características dos números da Álgebra, tais como, comutativa,
+associativa, distributiva, de Morgan e regra da condicional e estas proposições só podem assumir dois valores,
+Verdadeiro e Falso.A Lógica Matemática tem dois princípios fundamentaisPrincipio da não contradição que diz
+que uma proposição não pode ser verdadeira e falsa ao mesmo tempo e o Principio do Terceiro Excluído que diz
+que toda proposição é verdadeira ou falsa e nunca um terceiro valor.Chama-se valor lógico de uma preposição a
+Verdade se a preposição é verdadeira e a falsidade se a preposição é falsa. Chama-se conectivo as palavras
+usadas para unir duas ou mais preposições. Os conectivos básicos são negação, conjunção, disjunção,
+condicional e bicondicional.
+
+Resumo do Estudante 20
+A lógica matemática começou na Grécia e os antigos filósofos a usavam em suas discussões a fim de defender
+suas idéias e argumentos.A partir da idade média começou-se a representar frases por meios de notações
+matemáticas.Algumas situações no mundo em que vivemos apresentam dois estados mutuamente exclusivos como
+sim e não, ligado e desligado, verdadeiro e falso. Este texto apresenta alguns conceitos de Lógica matemática
+ligados a estas situações.Chama-se Proposição Declarativa todo conjunto de palavras que exprimem um
+pensamento de sentido completo. Na Álgebra de Boole, as proposições são simbolizadas automaticamente e
+possuem propriedades características dos números da Álgebra.As regras que validam os argumentos lógicos são
+chamadas Regras de Interferência.A Lógica Matemática tem dois princípios fundamentais: Princípio da não
+contradição e o Princípio do Terceiro Excluído. Devido a esses dois princípios, a Lógica Matemática é chamada
+de Dicotômica ou Bivalente.Chama-se valor lógico de uma proposição a Verdade se a proposição for verdadeira
+e a Falsidade se a proposição for falsa. Para se formar proposições que exprimam diversos pensamentos,
+formam-se proposições compostas por várias proposições atômicas. Chama-se conectivo as palavras usadas para
+unir duas ou mais preposições.
+
+Resumo do Estudante 21
+A lógica matemática começou na Grécia e os antigos filósofos usavam em suas discussões a fim de defender suas
+idéias e argumentos. Na Idade Média alguns estudiosos como George Boole e De Morgan interessaram-se pelo
+debate filosófico e matemático a fim de criar regras para serem usadas nos argumentos.Chama-se proposição
+declarativa todo conjunto de palavras que exprimem um pensamento de sentido completo. Na Álgebra de Boole,
+as proposições simbolizadas matematicamente e ligadas aos conectivos lógicos têm as propriedades comutativa,
+distributiva, associativa, de Morgan e regra condicional.A Lógica Matemática é chamada de Dicotômica ou
+Bivalente devido a dois princípios fundamentais: O da contradição, que dia que uma proposição não pode ser
+verdadeira e falsa ao mesmo tempo, e o princípio do Terceiro Excluído, que diz que nunca há uma terceira
+proposição.Chama-se conectivo as palavras usadas para unir duas ou mais proposições, os básicos são: negação,
+conjunção, disfunção, condicional e bicondicional.
+
+Resumo do Estudante 22
+A Matematica foi sendo utilizada na Grécia por antigos filósofos para defender suas idéias, nessa época filósofos
+como George Boole criaram regras para basear estes argumentos.A maioria das situações são representadas por
+dois estados: Sim ou Não, Verdadeiro ou Falso. Conceitos como Proposição Declarativa, Álgebra Booleana e a
+regra da condicional foram criadas para explicar a Lógica Matemática e baseadas em regras que validam os
+argumentos lógicos. Toda esta lógica tem dois princípios fundamentais:O primeiro principio explica as condições
+que os resultados podem ter, como verdadeiro ou falso, verdadeiro e falso, mas nunca outro terceiro valor.O
+segundo principio diz eu conexões utilizadas para declarar estes valores tem valor principal.
+
+Resumo do Estudante 23
+A lógica Matemática começou na Grécia, usavam para defender suas idéias, através de sentenças afirmativas e
+negativas. Na idade média, George Boole e outros estudiosos criaram regras para serem usadas nas
+argumentações, começaram a representar frases por notações matemáticas.No mundo em que vivemos
+apresentam dois estados mutuamente exclusivos, sim ou não, ligado ou desligado, verdadeiro e falso. Chama-se
+Proposição declarativa conjunto de palavras que exprimem um pensamento de sentido completo. As proposições
+transmitem pensamentos, afirmam fatos ou exprimem juízos de determinados entes. Na Álgebra de Boole, as
+proposições são simbolizadas matematicamente. Tais como: comutativa, associativa, distributiva, e regra
+condicional só podem assumir dois valores, Verdadeiro e Falso.A lógica Matemática parte de dois
+princípios:Princípio da não contradição, uma proposição não pode ser falsa e verdadeira ao mesmo tempo, e o
+Princípio do Terceiro Excluído, uma proposição só pode ser verdadeira ou falsa e nunca um terceiro valor.Se o
+valor lógico de uma proposição for a verdade, chamamos de verdadeiro e se for falsidade chamamos de falso.
+Chamamos de conectivos as palavras usadas para unir duas ou mais proposições.Os conectivos básicos são:
+negação, conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 24
+A Lógica Matemática era usada por filósofos graegos a fim de defender suas idéias e argumentos. Suas sentenças
+eram afirmativas ou negativas. A partir da Idade Média começou-se a representar frases por meios de notações
+matemáticas. George Boole e De Morgam interessaram-se pelo debate filosófico e matemático a fim de criar
+regras para serem usadas nos argumento.Algumas situações apresentam dois estados mutuamente exclusivos: sim
+e não, ligado e desligado, verdadeiro e falso.Proposição Declarativa é todo conjunto de palavras que exprimem
+pensamento de sentido completo. As proposições transmitem pensamento. Na Álgebra de Boole, os conetivos
+lógicos possuem propriedades da Álgebra, tais como constativa, associativa, comutativa entre outras.A Lógica
+Matemática possui dois princípios fundamentais: Princípios de Contradição, onde uma proposição não pode ser
+verdadeira e falsa ao menmo tempo, e o Princípio do Terceiro Excluído, que diz que toda proposição é
+verdadeira.Chama-se valor lógico de uma proposição a Verdade(se verdadeira) e Falsidade(se falsa). Chama-se
+conetivo as palavras usadas para unir duas ou mais proposições.
+
+Resumo do Estudante 25
+Iniciada na Grécia era usada pelos filósofos em discussões a fim de defender suas idéias. A partir da Idade
+Média, as frases começaram a serem representadas por notações matemáticas.Situações no mundo hoje
+apresentam dois estados exclusivos, como por exemplo, sim ou não.Proposição declarativa é todo conjunto de
+palavras que exprimem um pensamento de sentido completo. Na Álgebra de Boole, as proposições são
+simbolizadas matematicamente e ligadas aos conectivos lógicos. Tais proposições assumem somente dois valores:
+Verdadeiro ou Falso.A lógica Matemática tem dois princípios fundamentais:A não contradição que diz que uma
+proposição não pode ser verdadeira e falsa ao mesmo tempo e o Princípio de terceiro excluído que diz que toda
+proposição é verdadeira ou falsa e nunca um terceiro valor. Valor de uma preposição se ela for verdadeira é
+chamada de Verdade e se for falsa , Falsidade.
+
+Resumo do Estudante 26
+Representar frases por notações matemáticas,usar destas regras em argumentos vemsendo pensado desde a
+grécia antiga evoluindo para a idade media.Boole tentou ligar proposições matematicamente com todas as suas
+propriedades até assumindo valores comoverdade ou falso.Um conjunto de regras validam os argumentos A
+lógica matemática tem dois princípios:O primeiro da não contradição que diz que não há preposição verdadeira e
+falsa ao mesmo tempo, e o segundo principio que coloca a preposição como verdadeira ou
+falsa,bivalente.Proposições para expressar diversos pensamentos são formados por preposições compostas.tendo
+vários conectivos entre as sentenças.
+
+Resumo do Estudante 27
+A lógica matemática começou na Grécia e era usada para defender idéias e argumentos, com sentenças
+afirmativas ou negativas. A partir da idade Média, alguns estudiosos representavam frases por meio de notações
+matemáticas e criaram regras matemáticas e filosóficas para serem usadas como argumentos.O texto apresenta alguns conceitos de Lógica Matemática ligados às situações em que vivemos atualmente, como sim e não, que são
+conceitos que vêm da Lógica Matemática. Proposição Declarativa é todo conjunto de palavras que exprimem
+pensamentos completos. Na Álgebra Booleana as proposições viram símbolos matemáticos e possuem
+propriedades como os números da álgebra. As regras que validam os argumentos lógicos se chamam Regras de
+Inferência.A Lógica Matemática tem 2 princípios fundamentais: Não contradição: uma proposição não pode ser
+falsa nem verdadeira ao mesmo tempo. Principio do terceiro excluído: ou a proposição á falsa ou verdade, nunca
+um terceiro valor.Por isso a lógica matemática é dicotômica ou bivalente.O valor lógico é a verdade ou a
+falsidade. Os conectivos para unir 2 proposições são: negação, conjunção, disjunção, condicional e
+bicondicional.
+
+Resumo do Estudante 28
+A Lógica Matemática começou na Grécia, e eram usadas para defender idéias e argumentos de filósofos. Suas
+sentenças eram enunciadas na formas afirmativa ou negativa. A partir da idade média começou-se a representar
+frases por meio de notações matemáticas.Algumas situações no mundo em que vivemos apresentam dois estados
+mutuamente exclusivos com sim e não, ligado e desligado, verdadeiro e falso. Chamam-se Proposição Declarativa
+todo conjunto de palavras que exprimem um pensamento de sentido completo. Na Álgebra de Boole, as
+proposições são simbolizadas matematicamente e ligadas aos conectivos lógicos possuem propriedades
+características dos números da Älgebra. As quais só podem assumir dois valores, Verdadeiro ou Falso.As regras
+que validam os argumentos lógicos são chamadas Regras de Inferência.A Lógica Matemática tem dois princípios
+fundamentais:Princípio da não contradição que diz que uma proposição não pode ser verdadeira e falsa ao
+mesmo tempo e o Princípio do Terceiro Excluído, que diz que toda proposição é verdadeira ou falsa e nunca um
+terceiro valor. Chama-se valor lógico de uma proposição a Verdade se a proposição for verdadeira e a Falsidade
+se a proposição é falsa. Para se formar proposições que exprimam diversos pensamentos, formam-se proposições
+compostas por várias proposições atômicas. Conectivos são palavras usadas para unir duas ou mais proposições.
+rdade ou a falsidade. Os conectivos para unir 2 proposições são: negação, conjunção, disjunção, condicional e
+bicondicional.
+
+Resumo do Estudante 29
+A lógica matemática começou na Grécia e era usada para defender idéias e argumentos, sentenças afirmativas e
+negativas. A partir da idade Média,estudiosos como George Boole e De Morgan representavam frases por meio
+de notações matemáticas e criaram regas matemáticas e filosóficas para serem usadas nos argumentos.Esse texto
+apresenta alguns conceitos de Lógica Matemática. Algumas situações em que vivemos atualmente, apresentam
+dois estados, ligado e desligado, sim e não, que são conceitos que vêm da Lógica Matemática. Proposição
+Declarativa é todo conjunto de palavras que exprimem pensamentos completos. Na Álgebra Booleana as
+proposições viram símbolos matemáticos e possuem propriedades como os números da álgebra. As regras que
+validam os argumentos lógicos se chamam Regras de Inferência.A Lógica Matemática tem 2 princípios
+fundamentais: Não contradição: uma proposição não pode ser falsa nem verdadeira ao mesmo tempo. Principio
+do terceiro excluído: ou a proposição á falsa ou verdade, nunca um terceiro valor.Por isso a lógica matemática é
+dicotômica ou bivalente.O valor lógico é a verdade ou a falsidade. Os conectivos para unir duas ou mais
+proposições são: negação, conjunção, disjunção, condicional e bicondicional.
+
+Resumo do Estudante 30
+A Lógica Matemática começou a ser discutida na Grécia a fim de defender idéias e argumentos. A partir da idade
+média começou-se a representar frases por meio de notações matemáticas.Atualmente algumas situações
+apresentam dois estados mutuamente exclusivos com sim e não, ligado e desligado, verdadeiro e
+falso.Denominamos Proposição Declarativa todo o conjunto de palavras que exprimem um pensamento de sentido
+completo.Denominamos Regras de Inferência às regras que validam os argumentos lógicos.Princípios
+fundamentais da Lógica Matemática:Princípio da não contradiçãoUma proposição não pode ser verdadeira e
+falsa ao mesmo tempo.Princípios do Terceiro ExcluídoToda proposição é verdadeira ou falsa e nunca um terceiro
+valor.Denominamos Conectivo as palavras usadas para unir duas ou mais proposições.
